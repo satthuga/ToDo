@@ -5,7 +5,7 @@
 
 * **Authentication**: Firebase
 * **Database**: Firebase Firestore
-* **Libaries**: FSCalendar, Sidemenu, ProgressHub
+* **Libaries**: FSCalendar, Slidemenu, ProgressHub
 
 **Flowchart**: 
 
