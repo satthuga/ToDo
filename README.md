@@ -66,18 +66,14 @@
 
 * **Sections**: User name & photo, Today, Task (default List), Calendar, Lists table, New list 
 
-<img src="https://i.imgur.com/Xx0vnls.png">
-
-<img src="https://i.imgur.com/jXyeOAL.png">
+<img src="https://i.imgur.com/Xx0vnls.png">  <img src="https://i.imgur.com/jXyeOAL.png">
 
 ### List Viewcontroller
 
 * **Displayed todos**: Under the same list
 * **Option menu (top right corner)**: Change theme color for particular List (sync across devices through Firebase)
 
-<img src="https://i.imgur.com/JIWFkYG.png">
-
-<img src="https://i.imgur.com/LShkkuy.png">
+<img src="https://i.imgur.com/JIWFkYG.png">  <img src="https://i.imgur.com/LShkkuy.png">
 
 ### Calendar Viewcontroller
 
